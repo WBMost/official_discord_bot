@@ -1,2 +1,2 @@
 # official_discord_bot
-a discord bot that isn't just meme garbage. Is a copy of a repo for a specific person's server that doesn't include sensitive data.
+Skeleton project of a modern Discord bot using current 'slash command' interfaces. Can easily be altered for needs of any user.
